@@ -1,0 +1,26 @@
+
+
+
+.trending-title {
+    text-align: center;
+    font-size: 20px;
+}
+
+.carousel-container {
+    margin: 0px 0px
+}
+
+.recommended-title {
+    text-align: center;
+    margin: 30px auto;
+}
+
+.row-cols-1 {
+    width: 90%;
+    margin: auto;
+
+}
+
+.footer-container {
+    width: 100%;
+}
